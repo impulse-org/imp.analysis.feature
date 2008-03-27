@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.imp.analysis"
+      label="IMP Program Analysis"
+      version="0.1.0"
+      provider-name="rfuhrer@watson.ibm.com">
+
+   <description url="http://www.example.com/description">
+      [Enter Feature Description here.]
+   </description>
+
+   <copyright url="http://www.example.com/copyright">
+      [Enter Copyright Description here.]
+   </copyright>
+
+   <license url="http://www.example.com/license">
+      [Enter License Description here.]
+   </license>
+
+   <plugin
+         id="org.eclipse.imp.analysis"
+         download-size="0"
+         install-size="0"
+         version="1.0.73"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.imp.asl"
+         download-size="0"
+         install-size="0"
+         version="0.1.0"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.imp.asl.ui"
+         download-size="0"
+         install-size="0"
+         version="0.1.0"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.imp.pdb"
+         download-size="0"
+         install-size="0"
+         version="0.1.0"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.imp.pdb.ui"
+         download-size="0"
+         install-size="0"
+         version="0.1.0"
+         unpack="false"/>
+
+</feature>
