@@ -21,35 +21,21 @@
          id="org.eclipse.imp.analysis"
          download-size="0"
          install-size="0"
-         version="1.0.73"
-         unpack="false"/>
-
-   <plugin
-         id="org.eclipse.imp.asl"
-         download-size="0"
-         install-size="0"
-         version="0.1.0"
-         unpack="false"/>
-
-   <plugin
-         id="org.eclipse.imp.asl.ui"
-         download-size="0"
-         install-size="0"
-         version="0.1.0"
+         version="0.1.82"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.imp.pdb"
          download-size="0"
          install-size="0"
-         version="0.1.0"
+         version="0.1.15"
          unpack="false"/>
 
    <plugin
-         id="org.eclipse.imp.pdb.ui"
+         id="org.eclipse.imp.pdb.values"
          download-size="0"
          install-size="0"
-         version="0.1.0"
+         version="0.1.15"
          unpack="false"/>
 
 </feature>
