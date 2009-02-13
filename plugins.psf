@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+    <provider id="org.tigris.subversion.subclipse.core.svnnature">
+        <project reference="0.9.3,https://dev.eclipse.org/svnroot/technology/org.eclipse.imp/org.eclipse.imp.analysis/trunk,org.eclipse.imp.analysis"/>
+        <project reference="0.9.3,https://dev.eclipse.org/svnroot/technology/org.eclipse.imp/org.eclipse.imp.pdb.values/trunk,org.eclipse.imp.pdb.values"/>
+        <project reference="0.9.3,https://dev.eclipse.org/svnroot/technology/org.eclipse.imp/org.eclipse.imp.pdb/trunk,org.eclipse.imp.pdb"/>
+    </provider>
+</psf>
