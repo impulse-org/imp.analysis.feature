@@ -2,7 +2,7 @@
 <feature
       id="org.eclipse.imp.analysis"
       label="%featureName"
-      version="0.1.6"
+      version="0.1.7"
       provider-name="%providerName">
 
    <description url="http://www.eclipse.org/imp">
@@ -20,28 +20,28 @@
 
    <requires>
       <import feature="polyglot" version="2.4.0" match="compatible"/>
-      <import feature="org.eclipse.imp.runtime" version="0.1.97" match="compatible"/>
+      <import feature="org.eclipse.imp.runtime" version="0.1.101" match="compatible"/>
    </requires>
 
    <plugin
          id="org.eclipse.imp.analysis"
          download-size="0"
          install-size="0"
-         version="0.1.84"
+         version="0.1.85"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.imp.pdb"
          download-size="0"
          install-size="0"
-         version="0.1.20"
+         version="0.1.21"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.imp.pdb.values"
          download-size="0"
          install-size="0"
-         version="0.1.20"
+         version="0.1.21"
          unpack="false"/>
 
 </feature>
