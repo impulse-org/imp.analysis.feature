@@ -2,7 +2,7 @@
 <feature
       id="org.eclipse.imp.analysis"
       label="%featureName"
-      version="0.1.15.qualifier"
+      version="0.2.1.qualifier"
       provider-name="%providerName">
 
    <description url="http://www.eclipse.org/imp">
@@ -27,21 +27,21 @@
          id="org.eclipse.imp.analysis"
          download-size="0"
          install-size="0"
-         version="0.1.86.qualifier"
+         version="0.2.1.qualifier"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.imp.pdb"
          download-size="0"
          install-size="0"
-         version="0.1.23.qualifier"
+         version="0.2.1.qualifier"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.imp.pdb.values"
          download-size="0"
          install-size="0"
-         version="0.2.2.qualifier"
+         version="0.2.3.qualifier"
          unpack="false"/>
 
 </feature>
