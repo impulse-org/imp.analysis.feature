@@ -24,13 +24,6 @@
    </requires>
 
    <plugin
-         id="org.eclipse.imp.analysis"
-         download-size="0"
-         install-size="0"
-         version="0.2.1.qualifier"
-         unpack="false"/>
-
-   <plugin
          id="org.eclipse.imp.pdb"
          download-size="0"
          install-size="0"
