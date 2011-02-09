@@ -19,7 +19,6 @@
    </url>
 
    <requires>
-      <import feature="polyglot" version="2.4.0" match="compatible"/>
       <import feature="org.eclipse.imp.runtime" version="0.1.104" match="greaterOrEqual"/>
    </requires>
 
